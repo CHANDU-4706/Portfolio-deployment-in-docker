@@ -7,6 +7,20 @@ This is a personal portfolio web application, containerized using Docker for eas
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c5fe5c20-1914-44fa-87da-f98730007fe7" />
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7553037b-f525-4ca4-8c26-f0f1a9cef6a7" />
 
 ## 📁 Navigate to Project Directory
